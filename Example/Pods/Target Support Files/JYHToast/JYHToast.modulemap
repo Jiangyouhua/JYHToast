@@ -1,0 +1,6 @@
+framework module JYHToast {
+  umbrella header "JYHToast-umbrella.h"
+
+  export *
+  module * { export * }
+}

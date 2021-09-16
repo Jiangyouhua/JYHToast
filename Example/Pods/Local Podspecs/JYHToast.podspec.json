@@ -1,0 +1,22 @@
+{
+  "name": "JYHToast",
+  "version": "0.1.0",
+  "summary": "A short description of JYHToast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/3424079/JYHToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "3424079": "jingo1997@163.com"
+  },
+  "source": {
+    "git": "https://github.com/3424079/JYHToast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JYHToast/Classes/**/*"
+}
